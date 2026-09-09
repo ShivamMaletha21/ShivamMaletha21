@@ -67,7 +67,8 @@ A JavaScript-based expense tracking application with dynamic expense management 
 
 **Tech:** HTML • CSS • JavaScript
 
-🔗 **[Live Demo](https://lnkd.in/gxdfgEaA)**
+🔗 **[Live Demo](https://my-smart-expense-app.netlify.app/)**
+
 
 ---
 
@@ -82,13 +83,14 @@ A JavaScript-based shopping cart application with product search, cart managemen
 
 ---
 
-### 🎵 Spotify Playlist Manager
+### 🛒 Shopping Cart System
 
-A JavaScript-based playlist management application with features like adding, searching, sorting, shuffling, starring, and managing songs.
+A JavaScript-based shopping cart application with product search, cart management, discounts, and local storage.
 
 **Tech:** HTML • CSS • JavaScript
 
-🔗 **[Live Demo](https://lnkd.in/dNRVVF7u)**
+🔗 **[Live Demo](https://shopping-cart-javas.netlify.app/)**
+
 
 
 ---
