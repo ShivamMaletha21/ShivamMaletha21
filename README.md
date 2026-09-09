@@ -83,13 +83,14 @@ A JavaScript-based shopping cart application with product search, cart managemen
 
 ---
 
-### 🛒 Shopping Cart System
+### 🎵 Spotify Playlist Manager
 
-A JavaScript-based shopping cart application with product search, cart management, discounts, and local storage.
+A JavaScript project for managing playlists with search, sorting, reverse, shuffle, starred songs, and dynamic statistics.
 
 **Tech:** HTML • CSS • JavaScript
 
-🔗 **[Live Demo](https://shopping-cart-javas.netlify.app/)**
+🔗 **[Live Demo](https://your-music-qbb0yjcxc-sh-ivam1.vercel.app/)**
+
 
 
 
