@@ -1,10 +1,9 @@
-# 👋 Hi, I'm Shivam Maletha
+👋 Hi, I'm Shivam Maletha
+Aspiring Software Developer | DSA | Backend & Full-Stack Development
 
-###  Aspiring Software Developer | DSA | Full-Stack Development
+I'm an aspiring software developer focused on improving my problem-solving skills, software development fundamentals, and real-world project experience.
 
-I'm a BCA (Hons.) AI & DS student focused on improving my **problem-solving skills, software development fundamentals, and real-world project experience**.
-
-Currently working on **DSA with C++** and building my skills in **React, Node.js, Express.js, and databases**.
+Currently working on DSA with C++ and building my skills in React, Node.js, Express.js, and databases.
 
 ---
 
