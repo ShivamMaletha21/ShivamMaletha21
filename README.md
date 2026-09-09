@@ -1,4 +1,4 @@
-#  Hi, I'm Shivam Maletha
+# 👋 Hi, I'm Shivam Maletha
 
 ###  Aspiring Software Developer | DSA | Full-Stack Development
 
@@ -127,4 +127,6 @@ Full-Stack Projects
 
 [![X](https://img.shields.io/badge/X-%40shi32891-black?style=for-the-badge\&logo=x)](https://x.com/shi32891)
 
+ Email: malethashivam43@gmail.com
+ 
 Feel free to explore my repositories and follow my journey as I continue learning **DSA, development, and software engineering**.
