@@ -61,35 +61,34 @@ Check out my **[DSA Journey](https://leetcode.com/u/zdcz/)** to follow my progre
 
 ##  Projects
 
-###  Smart Expense Tracker
+### 💰 Smart Expense Tracker
 
 A JavaScript-based expense tracking application with dynamic expense management and local storage.
 
 **Tech:** HTML • CSS • JavaScript
 
-🔗 Live Demo
+🔗 **[Live Demo](https://lnkd.in/gxdfgEaA)**
 
 ---
 
-###  Shopping Cart
+### 🛒 Shopping Cart System
 
-A shopping cart application with product search, cart management, quantity updates, discounts, and local storage.
+A JavaScript-based shopping cart application with product search, cart management, discounts, and local storage.
 
 **Tech:** HTML • CSS • JavaScript
 
-🔗 Live Demo
+🔗 **[Live Demo](https://lnkd.in/gzhJG6UN)**
+
 
 ---
 
-###  Spotify Playlist Manager
+### 🎵 Spotify Playlist Manager
 
-A JavaScript project for managing playlists with search, sorting, reverse, shuffle, starred songs, and dynamic statistics.
+A JavaScript-based playlist management application with features like adding, searching, sorting, shuffling, starring, and managing songs.
 
 **Tech:** HTML • CSS • JavaScript
 
-🔗 Live Demo
----
-
+🔗 **[Live Demo](https://lnkd.in/dNRVVF7u)**
 
 
 ---
