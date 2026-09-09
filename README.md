@@ -67,6 +67,8 @@ A JavaScript-based expense tracking application with dynamic expense management 
 
 **Tech:** HTML • CSS • JavaScript
 
+🔗 Live Demo
+
 ---
 
 ###  Shopping Cart
@@ -74,6 +76,8 @@ A JavaScript-based expense tracking application with dynamic expense management 
 A shopping cart application with product search, cart management, quantity updates, discounts, and local storage.
 
 **Tech:** HTML • CSS • JavaScript
+
+🔗 Live Demo
 
 ---
 
@@ -83,6 +87,7 @@ A JavaScript project for managing playlists with search, sorting, reverse, shuff
 
 **Tech:** HTML • CSS • JavaScript
 
+🔗 Live Demo
 ---
 
 
