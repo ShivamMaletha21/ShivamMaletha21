@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shivam Maletha
+#  Hi, I'm Shivam Maletha
 
 ###  Aspiring Software Developer | DSA | Full-Stack Development
 
@@ -119,17 +119,12 @@ Full-Stack Projects
 
 ---
 
-##  GitHub Stats
-
-![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivamMaletha21\&show_icons=true\&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamMaletha21\&layout=compact\&theme=github_dark)
 
 ---
+## 🔗 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivam%20Maletha-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/shivam-maletha-46983b337/)
 
----
-
-###  Let's Connect
+[![X](https://img.shields.io/badge/X-%40shi32891-black?style=for-the-badge\&logo=x)](https://x.com/shi32891)
 
 Feel free to explore my repositories and follow my journey as I continue learning **DSA, development, and software engineering**.
